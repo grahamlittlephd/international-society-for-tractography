@@ -5,3 +5,5 @@ Meetings <br />
 People <br />
 Objectives <br />
 
+Built with hugo bricks template
+
