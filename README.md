@@ -1,7 +1,7 @@
 # International Society for Tractrography Website
-About
-History
-Meetings
-People
-Objectives
+About <br />
+History <br />
+Meetings <br />
+People <br />
+Objectives <br />
 
