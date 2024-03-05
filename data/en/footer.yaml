@@ -1,5 +1,5 @@
 logo_image:
-dark_footer: true
+dark_footer: false
 menuitems:
   - title: About
     link:  /about/
@@ -15,4 +15,7 @@ socials:
   - title: Twitter
     link: https://twitter.com/societytracto
     logo_image: /img/twitter.svg
-footer_text: 
+  - title: Email
+    link: mailto:societyfortractography@gmail.com
+    logo_image: /img/email.svg
+footer_text:

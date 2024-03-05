@@ -1,10 +1,10 @@
-favicon_image: /uploads/branding/brick_icon2_bw.svg
+favicon_image: /uploads/branding/logo_tractoball_transparent_wcircle_bg.svg
 sticky_header: true
-customcursor: true
-intersectionobserver: true
-filter_has_numbers: true
+customcursor: false
+intersectionobserver: false
+filter_has_numbers: false
 page_size: 3
 preheader:
-  active: true
-  is_light: true
-  text: 
+  active: false
+  is_light: false
+  text:

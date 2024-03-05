@@ -3,13 +3,10 @@ title: About
 ---
 {{< brick_about >}}
 
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+![Image alt](/uploads/branding/logo_tractoball_transparent_wcircle_bg.png)
 
-# Hey, I am John Doe
+# Building Connections<br>Even Improbable Ones
 
-Together with my friend 'Fenix' I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. 
-
-{{< socialbuttons >}}
+The International Society for Tractography brings together world leading experts spanning diverse fields to reach new frontiers in the field of tractography.  This includes planning engaging educational workshops and conferences, as well as faciliting large scale collaborations across institutions and international borders.  The goal is to make fundamental advances in the field of tractography that are only possible via a rich community filled with diverse talent and knowledge.
 
 {{< /brick_about >}}
-{{< brick_cta >}}{{< /brick_cta >}}
