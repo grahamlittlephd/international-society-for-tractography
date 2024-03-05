@@ -10,8 +10,8 @@
 :root {
     --textDark: rgba(38, 50, 56, 1);
     --textMedium: rgba(38, 50, 56, 0.7);
-    --borderMedium: rgba(38, 50, 56, 0.2);
-    --borderLight: rgba(38, 50, 56, 0.075);
+    --borderMedium: #abc7f6ff;
+    --borderLight: #abc7f6ff;
     --accent: rgba(0, 61, 192, 0.5);
     --textAccent: #abc7f6ff;
     --light: rgba(171,199,246,0.25);
