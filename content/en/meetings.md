@@ -1,6 +1,10 @@
 ---
 title: TractAnat Retreat 2024
 ---
+```
+header:
+  is_light: true
+```
 {{< brick_title2 >}}
 # TractAnat Retreat<br>Cargèse France 2024
 

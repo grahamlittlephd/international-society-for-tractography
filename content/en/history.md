@@ -1,6 +1,10 @@
 ---
 title: History of the Society
 ---
+```
+header:
+  is_light: true
+```
 {{< brick_title2 >}}
 
 ![](/uploads/photos/tractgoraphy_section.png)
