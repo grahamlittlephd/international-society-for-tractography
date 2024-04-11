@@ -13,10 +13,12 @@ menuitems:
       - title:
         link:
   - title: People
-    link: /board/
+    link:
     items:
-      - title:
-        link:
+      - title: Board
+        link: /board/
+      - title: Scientific Commitee
+        link: /board/
   - title: Meetings
     link: /meetings/
     items:
