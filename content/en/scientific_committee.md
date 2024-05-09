@@ -33,6 +33,7 @@ Unit Lead: Laurent Petit, PhD
 ### Technology
 
 Unit Lead: Graham Little, PhD
+Université de Sherbrooke
 
 The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.
 
