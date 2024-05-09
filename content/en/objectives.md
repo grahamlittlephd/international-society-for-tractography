@@ -1,12 +1,44 @@
 ---
-title: About
+title: Objectives
 ---
-{{< brick_about >}}
+{{< brick_image2 >}}
 
-![Image alt](/uploads/photos/question_mark.png)
+## Building the Virtual Brain Observatory
 
-# Key Objectives and Priorities
+![](/uploads/illustrations/cuate/responsive.svg)
 
-This is for the community to decide.  The initial discussions will take place during the TractAnat 2024 retreat with actionable objectives to be summarized here.  After which, the directions of the society will be guided by extensive outreach with the tractography community at large, especially the many world leading experts and student researchers not present at the retreat.
+Hugoplate is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
 
-{{< /brick_about >}}
+- 10+ Pre-build pages
+- 99+ Google Pagespeed Score
+- Built with Hugo and CSS variables for easy styling
+- Fully responsive on all devices
+- SEO-optimized for better search engine rankings
+
+{{< /brick_image2 >}}
+{{< brick_image >}}
+
+## Eduction and Training
+
+![](/uploads/illustrations/cuate/version-control.svg)
+
+We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+
+We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+
+{{< /brick_image >}}
+{{< brick_image2 >}}
+## Building the Virtual Brain Observatory
+
+![](/uploads/illustrations/cuate/responsive.svg)
+
+Hugoplate is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+
+- 10+ Pre-build pages
+- 99+ Google Pagespeed Score
+- Built with Hugo and CSS variables for easy styling
+- Fully responsive on all devices
+- SEO-optimized for better search engine rankings
+
+{{< /brick_image2 >}}
+

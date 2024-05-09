@@ -18,7 +18,7 @@ menuitems:
       - title: Board
         link: /board/
       - title: Scientific Commitee
-        link: /board/
+        link: /scientific_comittee/
   - title: Meetings
     link: /meetings/
     items:
