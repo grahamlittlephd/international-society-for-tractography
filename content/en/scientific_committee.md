@@ -59,11 +59,18 @@ Unit Lead: Ariel Rokem
 
 {{< /brick_features >}}
 
+{{<brick_intro>}}
+## Scientific Committee
+{{</brick_intro>}}
 {{<brick_image2>}}
 ![](/uploads/illustrations/cuate/responsive.svg)
-# Technology
+### Technology
+<div class="box">
+<img src="/uploads/photos/avatars/laurent_petit.png" alt="Laurent Petit" class="avatar colorize_image" />
+<h3>Maxime Descoteaux</h3>
+<div class="function">President / Founder<br>Professor, Université de Sherbrooke</div>
 
 Unit Lead : Graham Little, PhD
-<img src="/uploads/photos/avatars/laurent_petit.png" alt="Laurent Petit" class="avatar colorize_image" />
+
 
 {{</brick_image2>}}
