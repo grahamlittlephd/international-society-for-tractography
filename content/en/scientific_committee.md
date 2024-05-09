@@ -62,22 +62,20 @@ Unit Lead: Ariel Rokem
 {{<brick_intro>}}
 ## Scientific Committee
 {{</brick_intro>}}
-{{<brick_image2>}}
-![](/uploads/illustrations/cuate/responsive.svg)
-### Technology
-<div class="container">
-        <ul class="grid people"><li>
-            <div class="box">
-            <img src="/uploads/photos/avatars/maxime_descoteaux.png" alt="Maxime Descoteaux" class="avatar colorize_image" />
-            <h3>Maxime Descoteaux</h3>
-            <div class="function">President / Founder<br>Professor, Université de Sherbrooke</div>
-            <p>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</p>
-            <ul class="buttons"><li><a href="mailto:maxime.descoteaux@usherbrooke.ca" class="button icon"><img src="/img/email.svg" alt="maxime.descoteaux@usherbrooke.ca" /></a></li><li><a href="https://scil.usherbrooke.ca/" class="button icon" target="_blank"><img src="/img/world.svg" alt="https://scil.usherbrooke.ca/" /></a></li></ul>
-            </div>
-        </li></ul>
+
+<section class="cta hasbackgroundcolor">
+    <div class="container">
+        <div class="twocols box">
+            <div class="text">
+                <div><h2 id="get-started-with-hugobricks-today">Get started with Hugobricks today!</h2>
+<p>Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.</p>
+<p><a href="/get-started/" class="button secondary">Get started now</a></p>
+
+</div>
     </div>
-
-Unit Lead : Graham Little, PhD
-
-
-{{</brick_image2>}}
+            <div class="image">
+                <div><p><img src="/uploads/illustrations/cuate/server.svg" alt="" class="is_svg" /></p></div>
+            </div>
+        </div>
+    </div>
+</section>
