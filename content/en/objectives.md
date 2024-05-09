@@ -21,16 +21,7 @@ Even though life altering neurological and psychological disorders are known to 
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-Expert knowledge and inside knowledge is currently required to perform state-of-the-art tractography research. A mission of the society is lower the barriers of entry to tractography methods by hosting and promoting new educational events designed specifically for different
-
-lack of standards,
-missing anatomical knowledge
-expert knowledge needed to use the technology
-
-- TractAnat Club -
-- Youtube Channel -
-- IST AMA (Ask Me Anying)
-
+Expert knowledge is currently required to perform state-of-the-art tractography research. A mission of the society is lower the barriers of entry to tractography methods by hosting and promoting new educational events designed specifically for individuals of different expertise and backgrounds. These initiatives not only include workshops delivered by world leading tractography experts but also anatomical experts educating tractography developers on the anatomical nuances of the ground truth structural connectivity of the brain.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
