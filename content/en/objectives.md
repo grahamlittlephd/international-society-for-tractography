@@ -7,7 +7,8 @@ title: Objectives
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-After decades of research how the brain is wired remains a mystery.
+After decades of research how the brain is wired remains a mystery. Tractography is the only tool capable of
+creating th
 
 ## Education and Training
 
