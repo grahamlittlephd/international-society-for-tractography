@@ -78,3 +78,19 @@ Unit Lead: Ariel Rokem
         </div>
     </div>
 </section>
+
+<section class="cta hasbackgroundcolor">
+    <div class="container">
+        <div class="twocols box">
+            <div class="text">
+                <div><h2 id="get-started-with-hugobricks-today">Technology 2</h2>
+<p>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.</p>
+
+</div>
+    </div>
+            <div class="image">
+                <div><p><img src="/uploads/illustrations/cuate/server.svg" alt="" class="is_svg" /></p></div>
+            </div>
+        </div>
+    </div>
+</section>
