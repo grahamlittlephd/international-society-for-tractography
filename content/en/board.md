@@ -1,5 +1,5 @@
 ---
-title: Executive and Scientific Boards
+title: Board of Directors
 ---
 {{< brick_team >}}
 

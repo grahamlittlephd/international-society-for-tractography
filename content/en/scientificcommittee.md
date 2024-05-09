@@ -1,10 +1,8 @@
 ---
-title: Executive and Scientific Boards
+title: Scientific Committee
 ---
 {{< brick_features >}}
 ## Scientrific Committee
-
-The Scientific Committee w
 
 Lead by: President Maxime Descoteaux, Vice President Flavio Dell'Acqua ()
 
