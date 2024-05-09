@@ -32,9 +32,11 @@ Expert knowledge is currently required to perform state-of-the-art tractography 
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-- international initiatives
-- clinical collaborations
-- incorporation of
+The International Society for Tractography aims to increase the impact and reach of this groundbreaking technology with the following initiavies.
+
+-Clinical Translation - A large stumbling block for 
+-Fast Track Industry Adoption -
+-Facilitate International Education/Collaborations -
 
 {{< /brick_image2 >}}
 
