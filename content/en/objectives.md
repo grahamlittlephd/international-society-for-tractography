@@ -1,10 +1,14 @@
 ---
 title: Objectives
 ---
+{{< brick_intro >}}
 
+# Initial International Society for Tractography Objectives
+
+{{ /brick_intro }}
 {{< brick_image >}}
 
-# The Virtual Brain Observatory
+## The Virtual Brain Observatory
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
@@ -13,7 +17,7 @@ Even though life altering neurological and psychological disorders are known to 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-# Education and Training
+## Education and Training
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
@@ -31,7 +35,7 @@ expert knowledge needed to use the technology
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-# Outreach and Translation
+## Outreach and Translation
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
