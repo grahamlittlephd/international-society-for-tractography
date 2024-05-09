@@ -2,9 +2,9 @@
 title: Scientific Committee
 ---
 {{< brick_features >}}
-## Scientrific Committee
+## Scientific Committee
 
-Lead by: President Maxime Descoteaux, Vice President Flavio Dell'Acqua ()
+Lead by: President Maxime Descoteaux, Vice President Flavio Dell'Acqua
 
 ---
 
