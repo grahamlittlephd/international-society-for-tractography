@@ -32,7 +32,7 @@ Unit Lead: Laurent Petit, PhD
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### Technology
 
-Unit Lead: Graham Little, PhD ![](/uploads/photos/avatars/Graham_Little.JPG)
+Unit Lead: Graham Little, PhD <img src="uploads/photos/avatars/Graham_Little.JPG" alt="drawing" width="50%"/>
 
 
 ---
