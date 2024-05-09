@@ -66,4 +66,4 @@ Unit Lead: Ariel Rokem
 Unit Lead : Graham Little, PhD
 {{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
 
-{{</brick_image>}}
+{{</brick_image2>}}
