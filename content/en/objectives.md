@@ -3,10 +3,10 @@ title: Objectives
 ---
 {{< brick_intro >}}
 
-# Initial International Society for Tractography Objectives
+# Society Objectives
 
 {{< /brick_intro >}}
-{{< brick_image >}}
+{{< brick_image2 >}}
 
 ## The Virtual Brain Observatory
 
