@@ -36,7 +36,7 @@ The International Society for Tractography aims to increase the impact and reach
 
 - <b>Clinical Translation:</b> Tractography has shown promise for improving clinical outcomes but few centers use tractography in their daily oporations. Through targeted education and research initiatives the society plans to grow the use of tractography for clinical practice and research.
 - <b>Fast Track Industry Adoption:</b> Standard MRI protocols developed by vendors are not adequate for performing state-of-the-art tractography. By bringing industry partners into the fold we aim to develop unique solutions that create a "win-win-win" scenario for researchers, clinicians and companies looking to distribute tractography products internationally.
-- <b>Facilitate International Education/Collaborations:</b>  This society is fundamentally an international endeavor with members spanning across the role.  All the initiatives of the society aim to be inclusively tackled by researchers from across the globe.
+- <b>Facilitate International Education/Collaborations:</b>  Truly an international endeavor, all initiatives for the International Society for Tractography will be tackled inclusively by researchers from across the globe.
 
 {{< /brick_image2 >}}
 
