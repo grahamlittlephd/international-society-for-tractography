@@ -34,9 +34,9 @@ Expert knowledge is currently required to perform state-of-the-art tractography 
 
 The International Society for Tractography aims to increase the impact and reach of this groundbreaking technology with the following initiavies.
 
--Clinical Translation - A large stumbling block for
--Fast Track Industry Adoption -
--Facilitate International Education/Collaborations -
+- <b>Clinical Translation</b>  Tractography has shown promise for improving clinical outcomes for neurosurgery but few centers use tractography in their daily oporations. Through targeted education and research initiatives the society plans to grow the use of tractography for clinical practice and research.
+- <b>Fast Track Industry Adoption</b> -
+- <b>Facilitate International Education/Collaborations</b> -
 
 {{< /brick_image2 >}}
 
