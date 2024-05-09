@@ -60,10 +60,10 @@ Unit Lead: Ariel Rokem
 {{< /brick_features >}}
 
 {{<brick_image2>}}
-
+![](/uploads/illustrations/cuate/responsive.svg)
 # Technology
 
 Unit Lead : Graham Little, PhD
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+<img src="/uploads/photos/avatars/laurent_petit.png" alt="Laurent Petit" class="avatar colorize_image" />
 
 {{</brick_image2>}}
