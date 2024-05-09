@@ -4,7 +4,7 @@ title: Objectives
 
 {{< brick_image >}}
 
-### Virtual Brain Observatory
+# Virtual Brain Observatory
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
@@ -13,7 +13,7 @@ Even though life altering neurological and psychological disorders are known to 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-### Education and Training
+# Education and Training
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
@@ -34,11 +34,13 @@ expert knowledge needed to use the technology
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-### Outreach and Translation
+# Outreach and Translation
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-After decades of research how the brain is wired remains a mystery.
+- international initiatives
+- clinical collaborations
+- incorporation of
 
 {{< /brick_image >}}
 
