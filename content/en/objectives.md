@@ -1,6 +1,7 @@
 ---
 title: Objectives
 ---
+
 {{< brick_image >}}
 
 ## Building the Virtual Brain Observatory

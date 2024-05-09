@@ -1,6 +1,7 @@
 ---
 title: Scientific Committee
 ---
+
 {{< brick_features >}}
 ## Scientific Committee
 
