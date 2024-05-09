@@ -34,9 +34,9 @@ Expert knowledge is currently required to perform state-of-the-art tractography 
 
 The International Society for Tractography aims to increase the impact and reach of this groundbreaking technology with the following initiavies.
 
-- <b>Clinical Translation</b>  Tractography has shown promise for improving clinical outcomes for neurosurgery but few centers use tractography in their daily oporations. Through targeted education and research initiatives the society plans to grow the use of tractography for clinical practice and research.
-- <b>Fast Track Industry Adoption</b> -
-- <b>Facilitate International Education/Collaborations</b> -
+- <b>Clinical Translation:</b> Tractography has shown promise for improving clinical outcomes for neurosurgery but few centers use tractography in their daily oporations. Through targeted education and research initiatives the society plans to grow the use of tractography for clinical practice and research.
+- <b>Fast Track Industry Adoption:</b> Standard MRI protocols developed by vendors are not adequate for performing state-of-the-art tractography. The society plans to bring industry partners into the fold to develop unique solutions through partership that create a "win-win-win" scenario for researchers, clinicians and companies looking to distribute tractography products internationally.
+- <b>Facilitate International Education/Collaborations:</b>  This society is fundamentally an international endeavor with members spanning across the role.  All the initiatives of the society aim to be inclusively tackled by researchers from across the globe.
 
 {{< /brick_image2 >}}
 
