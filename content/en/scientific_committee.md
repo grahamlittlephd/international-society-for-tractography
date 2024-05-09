@@ -67,9 +67,8 @@ Unit Lead: Ariel Rokem
     <div class="container">
         <div class="twocols box">
             <div class="text">
-                <div><h2 id="get-started-with-hugobricks-today">Get started with Hugobricks today!</h2>
-<p>Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.</p>
-<p><a href="/get-started/" class="button secondary">Get started now</a></p>
+                <div><h2 id="get-started-with-hugobricks-today">Technology</h2>
+<p>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.</p>
 
 </div>
     </div>
