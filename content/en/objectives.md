@@ -5,7 +5,7 @@ title: Objectives
 
 # Initial International Society for Tractography Objectives
 
-{{ /brick_intro }}
+{{< /brick_intro >}}
 {{< brick_image >}}
 
 ## The Virtual Brain Observatory
@@ -21,7 +21,7 @@ Even though life altering neurological and psychological disorders are known to 
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-Tractography in it's current state
+Tractography has
 
 lack of standards,
 missing anatomical knowledge

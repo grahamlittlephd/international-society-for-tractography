@@ -1,11 +1,17 @@
 ---
 title: Scientific Committee
 ---
-
 {{< brick_features >}}
 ## Scientific Committee
 
-Lead by: President Maxime Descoteaux, Vice President Flavio Dell'Acqua
+Description of scientific committee here
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Finance & Grants
+
+Unit Lead: President Maxime Descoteaux, Vice President Flavio Dell'Acqua
 
 ---
 
@@ -48,13 +54,6 @@ Unit Lead:Lauren O'Donnell
 ### Standardization
 
 Unit Lead: Ariel Rokem
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Standardization
-
-Unit Leads: Maxime Descoteaux & Flavio Dell'Acqua
 
 
 {{< /brick_features >}}
