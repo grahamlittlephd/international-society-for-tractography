@@ -1,30 +1,38 @@
 ---
 title: Scientific Committee
 ---
-{{<brick_wide>}}
 
-## Scientific Comittee
+{{< brick_features >}}
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci.
+## Scientific Committee
 
-{{< tabs >}}
-
-## Finance and Grants
-
-Unit Lead: President Maxime Descoteaux, Vice President Flavio Dell’Acqua
+Description of scientific committee here
 
 ---
-## Education
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Finance & Grants
+
+Unit Lead: President Maxime Descoteaux, Vice President Flavio Dell'Acqua
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Education
 
 Unit Lead: Alexander Leemans, PhD
 
 ---
-## Events and Communication
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Events & Communications
 
 Unit Lead: Laurent Petit, PhD
 
 ---
-## Technology
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Technology
 
 Unit Lead: Graham Little, PhD
 Université de Sherbrooke
@@ -32,21 +40,25 @@ Université de Sherbrooke
 The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.
 
 ---
-## CATT
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Clinical, Applications and Translation (CATT)
+
 Unit Lead: Catherine Lebel, PhD
 
-Clinical Applications and Translation Unit
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Interdisciplinary Applications
+
+Unit Lead:Lauren O'Donnell
 
 ---
-## Interdisciplinary Definitions
 
-Unit Lead:Lauren O’Donnell
-
-Interdisciplinary Definitions
-
----
-## Standardization
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Standardization
 
 Unit Lead: Ariel Rokem
-{{< /tabs >}}
-{{</brick_wide>}}
+
+
+{{< /brick_features >}}
