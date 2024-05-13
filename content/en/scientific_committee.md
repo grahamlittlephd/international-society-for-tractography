@@ -1,6 +1,29 @@
 ---
 title: Scientific Committee
 ---
+## Scientific Comittee
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Overseen by the president and vice president
+
+{{< tabs >}}
+
+## Finance & Grants
+
+Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio.
+
+---
+## Education
+
+Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio.
+
+---
+## Events & Communication
+
+Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio. Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Maecenas](https://www.google.com) molestie sodales bibendum. Nullam egestas nulla eget justo cursus, vitae convallis nibh fermentum. Phasellus ornare, purus in dapibus gravida, diam odio feugiat lectus, in efficitur dolor ante ut odio.
+
+{{< /tabs >}}
+
 {{< brick_features >}}
 ## Scientific Committee
 
