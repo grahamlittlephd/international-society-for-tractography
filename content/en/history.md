@@ -1,23 +1,15 @@
 ---
 title: History of the Society
 ---
-```
-header:
-  is_light: true
-```
-{{< brick_title2 >}}
+
+{{< brick_image >}}
 
 ![](/uploads/photos/tractgoraphy_section.png)
 
 # History of the Society
 
-{{< /brick_title2 >}}
-{{< brick_wide >}}
+In 2023, the International Society for Tractography (IST) was established by the founding members of the Board. The idea for an international society originally came from discussions arising during the creation of the Elsevier Handbook of Diffusion MR Tractography: Imaging Methods, Biophysical models, algorithms, and applications. During the writing process it became evident there was a large community of tractography users/developers and a specific need for a proper structure to support collaboration across disciplines to shape the future of tractography developments.
 
-In 2023, the International Society for Tractography (IST) was established by the founding members of the Board. These came from discussions arising during the creation of the first edition of the Elsevier Handbook of Diffusion MR Tractography: Imaging Methods, Biophysical models, algorithms, and applications.  During these discussions it became apparent that there was a large community of tractography users/developers and a specific need for a proper structure to support collaboration across disciplines to shape the future of tractography developments.
+The International Society for Tractography is a non-profit legal entity in Canada listed in the Canadian commercial register.  The society is responsible for the organization of educational workshops, conferences and events, with the broader goal of advancing the field of tractography via large cross-disciplinary collaboration with adjacent fields such as neurosurgery and neuroanatomy among others. The society was founded for the purpose of bringing together developers and users of tractography, to stimulate discussions, improve the technology and to accelerate the transfer of tractography to end users.
 
-The International Society for Tractography is a non-profit legal entity in Canada listed in the Canadian commercial register.  The society is responsible for the organization of educational workshops, conferences and events, with the broader goal of advancing the field of tractography via large cross-disciplinary collaboration with adjacent fields such as neurosurgery and neuroanatomy among others. The International Society for Tractography and associated events are not meant to compete with other institutions, organizations and workshops/conferences/events. The society was founded for the purpose of bringing together researchers, developers and users of tractography, in the hope to stimulate discussions, improve the technology and to expedite the transfer of said technology to end users.
-
-The International Society for Tractography was created to support this diverse community and facilitate conference organization. This can help to provide an upfront loan to future organizing teams to cover expenses that typically have to be made when organizing a conference before revenues from registration fees and sponsorship agreements materialize.
-
-{{< /brick_wide >}}
+{{< /brick_image >}}
