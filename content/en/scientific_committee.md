@@ -1,10 +1,7 @@
 ---
 title: Scientific Committee
 ---
-## Scientific Comittee
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Overseen by the president and vice president
 
 {{< tabs >}}
 
