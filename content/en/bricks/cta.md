@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Become a Member!
+# Become a Member!
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+If you are interested in joining the <b>International Society for Tractography</b> and becoming a member of this highly diverse and collaborative organization, please click below and fill out the form.
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "Become a Member" "/about/" >}}
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/photos/connectivity.png)
