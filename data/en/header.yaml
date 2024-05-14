@@ -9,6 +9,8 @@ menuitems:
         link: /about#what-is-tractography/
       - title: History of the Society
         link: /about#history-of-the-society/
+      - title: Sponsors
+        link: /about#sponsors/
   - title: People
     link:
     items:
@@ -23,6 +25,11 @@ menuitems:
         link:
   - title: Objectives
     link: /objectives/
+    items:
+      - title:
+        link:
+  - title: Become a Member
+    link: /become_a_member/
     items:
       - title:
         link:

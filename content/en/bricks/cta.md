@@ -1,7 +1,7 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## Become a Member!
 
 Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
 

@@ -15,7 +15,7 @@ The fact that tractography methods can capture a reasonable representation of th
 
 {{< brick_image2 >}}
 
-![](/uploads/photos/tractgoraphy_section.png)
+![](/uploads/tractograms/historical_tractography_mori.png)
 
 # History of the Society
 
@@ -24,3 +24,10 @@ In 2023, the International Society for Tractography (IST) was established by the
 The International Society for Tractography is a non-profit legal entity in Canada listed in the Canadian commercial register.  The society is responsible for the organization of educational workshops, conferences and events, with the broader goal of advancing the field of tractography via large cross-disciplinary collaboration with adjacent fields such as neurosurgery and neuroanatomy among others. The society was founded for the purpose of bringing together developers and users of tractography, to stimulate discussions, improve the technology and to accelerate the transfer of tractography to end users.
 
 {{< /brick_image2 >}}
+
+{{< brick_wide >}}
+# Thank You to Our Sponsors!
+|<a href="https://imeka.ca/" rel="IMEKA imaging what matters" target="_blank"><img src="/uploads/photos/imeka-black.png" alt="Imeka"  height="auto" width=400 ></a> |&emsp;&emsp;&emsp;| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program" target="_blank"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="auto" width=800></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging" target="_blank"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  width=400 height="auto" width="auto"></a>|
+|:--------:|:------:|:-----:|:------:|:-----:|
+<br>
+{{< /brick_wide >}}
