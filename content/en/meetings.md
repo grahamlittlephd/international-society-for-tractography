@@ -9,7 +9,7 @@ header:
 {{< brick_wide >}}
 ## TractAnat Retreat Cargèse France 2024
 
-{{< gallery dir="/uploads/gallery/" >}}
+![](/uploads/photos/group_picture_tractanat.jpg)
 
 From March 10<sup>th</sup> - 16<sup>th</sup> 2024, 47 world leading experts spanning the areas of neuroanatomy, tractography methods and clinical/research applications gathered at the Institut d’Etudes Scientifiques of Cargèse (IESC), Cargèse, France for the first meeting for the International Society for Tractography.  Given the limited space, the select group of individuals were decided based on ample debate focused on diversifying the expertise of those attending as well as ensuring a truly global representation of attendees. The aim of this retreat was to gain a clear understanding of the areas in which tractography needs to improve and can have the most impact.  In addition, the discussions from the retreat helped outline the next steps required for the International Society for Tractography and future meetings.
 
@@ -17,7 +17,7 @@ During the retreat attendees took part in interactive presentations spanning the
 
 Thanks for all those who attended and made this event a amazing success!
 
-![](/uploads/photos/group_picture_tractanat.jpg)
+{{< gallery dir="/uploads/gallery/" >}}
 
 {{< /brick_wide >}}
 
