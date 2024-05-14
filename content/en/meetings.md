@@ -12,8 +12,8 @@ header:
 ![](/uploads/photos/group_picture_tractanat.jpg)
 
 ### Thank You to Our Sponsors!
-|<a href="https://imeka.ca/" rel="IMEKA imaging what matters"><img src="/uploads/photos/imeka-black.png" alt="Imeka"  height="50" width="auto"></a> |&emsp;&emsp;&emsp;| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="100" width="auto"></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  height="80" width="auto"></a>|
-|--------|------|-----|------|-----|
+|<a href="https://imeka.ca/" rel="IMEKA imaging what matters"><img src="/uploads/photos/imeka-black.png" alt="Imeka"  height="auto" width=200 ></a> |&emsp;&emsp;&emsp;| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="auto" width=400></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  width=200 height="auto" width="auto"></a>|
+|:--------:|:------:|:-----:|:------:|:-----:|
 <br>
 
 
