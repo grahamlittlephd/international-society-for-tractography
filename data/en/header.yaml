@@ -3,12 +3,12 @@ logo_subtitle:
 mobile_view_width: 1000
 menuitems:
   - title: About
-    link:
+    link: /about/
     items:
       - title: What is Tractography?
-        link: /what_is_tractography/
+        link: /about#what-is-tractography/
       - title: History of the Society
-        link: /history/
+        link: /about#history-of-the-society/
   - title: People
     link:
     items:
