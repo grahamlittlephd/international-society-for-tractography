@@ -1,5 +1,5 @@
 ---
-title: About
+title: International Society for Tractography
 ---
 {{< brick_image >}}
 

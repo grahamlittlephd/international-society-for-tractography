@@ -1,5 +1,5 @@
 ---
-title: What is Tractography
+title: About
 ---
 {{< brick_image >}}
 
