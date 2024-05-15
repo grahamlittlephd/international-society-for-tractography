@@ -5,6 +5,6 @@ title: cta
 
 If you are interested in joining the <b>International Society for Tractography</b> and becoming a member of this highly diverse and collaborative organization, please click below and fill out the form.
 
-{{< button2 "Become a Member" "/about/" >}}
+{{< button2 "Become a Member" "https://forms.gle/9V4AWL9eB4YqsK4N6" >}}
 
 ![](/uploads/photos/connectivity.png)
