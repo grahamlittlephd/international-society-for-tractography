@@ -1,9 +1,9 @@
 @font-face {
     font-display: swap;
-    font-family: 'Signika';
+    font-family: 'RadioCanada';
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/signika-v20-latin-700.woff2') format('woff2');
+    src: url('/fonts/RadioCanadaBig-VariableFont_wght.ttf') format('ttf');
 }
 @font-face {
     font-display: swap;
@@ -21,6 +21,6 @@
 }
 
 :root {
-    --fontTitles: 'Signika', sans-serif;
+    --fontTitles: 'RadioCanada', sans-serif;
     --fontBody: 'Heebo', sans-serif;
 }
