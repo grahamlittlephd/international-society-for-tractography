@@ -15,7 +15,7 @@ header:
 <h3> Attendees </h3>
 
 | |&emsp;| |&emsp;| |
-|:------:|:----:|:-----:|:-----:|:---------:|
+|:----|:----:|:----:|:----:|----:|
 | Derek Jones || Kathleen Rockland || Maxime Descoteaux |
 | Flavio Dell’Acqua || Alexander Leemans || Lauren O'Donnell |
 | Laurent Petit || Graham Little || Dogu Baran Aydogan |
@@ -31,7 +31,7 @@ header:
 | Elena Borra || Pratik Mukherjee || Stam Sotiropoulos |
 | Shawna Farquharson || Ching-Po Lin || Helen Mayberg |
 | Chiara Maffei || Diego Szczupak || Chun-Yi Zac Lo |
-| Michel Thiebault de Schotten |
+| Michel Thiebault <br> de Schotten |
 
 <h3>  Thank You to Our Sponsors! </h3>
 

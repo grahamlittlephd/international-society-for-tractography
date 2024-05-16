@@ -77,16 +77,8 @@ Unit Lead: Ariel Rokem
 ---
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
 ### [Scientific Advisors](https://www.google.com)
-
-{{< /brick_features >}}
-
-{{<brick_wide>}}
-## People
-
-Scientific Advisory Committee
 - Derek Jones
 - Pratik
 - Shawna (Scientific Committee Advisor)
 - Kathleen (Kathy) Rockland (Scientific Committee Advisor)
-
-{{</brick_wide>}}
+{{< /brick_features >}}
