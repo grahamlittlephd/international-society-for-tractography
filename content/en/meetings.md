@@ -15,7 +15,7 @@ header:
 <h3> Attendees </h3>
 
 | |&emsp;| |&emsp;| |
-|------|----|-----|-----|---------|
+|:------:|:----:|:-----:|:-----:|:---------:|
 | Derek Jones || Kathleen Rockland || Maxime Descoteaux |
 | Flavio Dell’Acqua || Alexander Leemans || Lauren O'Donnell |
 | Laurent Petit || Graham Little || Dogu Baran Aydogan |
