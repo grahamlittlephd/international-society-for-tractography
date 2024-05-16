@@ -21,7 +21,7 @@ header:
 | Laurent Petit || Graham Little || Dogu Baran Aydogan |
 | Joël Lefebvre || Joseph Yang || Fan Zhang |
 | Kurt Schilling || Tim Dyrby || Silvio Sarrubo |
-| Alessandro Daducci || Maxime Chamberland &emsp;|| Jennifer McNab |
+| Alessandro Daducci || Maxime Chamberland || Jennifer McNab |
 | Pamela Guevara || Christian Beaulieu || Francois Rheault |
 | Ariel Rokem || Simona Schiavi || Donald Tournier |
 | Suzanne Haber || Stephanie Forkel || Alberto De Luca |
