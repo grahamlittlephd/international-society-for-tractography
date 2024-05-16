@@ -14,23 +14,23 @@ header:
 
 <h3> Attendees </h3>
 
-| | | |
-|------|-----|---------|
-| Derek Jones | Kathleen Rockland | Maxime Descoteaux |
-| Flavio Dell’Acqua | Alexander Leemans | Lauren O'Donnell |
-| Laurent Petit | Graham Little | Dogu Baran Aydogan |
-| Joël Lefebvre | Joseph Yang | Fan Zhang |
-| Kurt Schilling | Tim Dyrby | Silvio Sarrubo |
-| Alessandro Daducci | Maxime Chamberland &emsp;| Jennifer McNab |
-| Pamela Guevara | Christian Beaulieu | Francois Rheault |
-| Ariel Rokem | Simona Schiavi | Donald Tournier |
-| Suzanne Haber | Stephanie Forkel | Alberto De Luca |
-| Alessandra Griffa | Martijn Froeling | Francesco Vergani |
-| Mareike Grotheer | Carlo Pierpaoli | Jessica Dubois |
-| Alard Roebroeck | Martin Parent | Vinod Kumar |
-| Elena Borra | Pratik Mukherjee | Stam Sotiropoulos |
-| Shawna Farquharson | Ching-Po Lin | Helen Mayberg |
-| Chiara Maffei | Diego Szczupak | Chun-Yi Zac Lo |
+| |&emsp;| |&emsp;| |
+|------|----|-----|-----|---------|
+| Derek Jones || Kathleen Rockland || Maxime Descoteaux |
+| Flavio Dell’Acqua || Alexander Leemans || Lauren O'Donnell |
+| Laurent Petit || Graham Little || Dogu Baran Aydogan |
+| Joël Lefebvre || Joseph Yang || Fan Zhang |
+| Kurt Schilling || Tim Dyrby || Silvio Sarrubo |
+| Alessandro Daducci || Maxime Chamberland &emsp;|| Jennifer McNab |
+| Pamela Guevara || Christian Beaulieu || Francois Rheault |
+| Ariel Rokem || Simona Schiavi || Donald Tournier |
+| Suzanne Haber || Stephanie Forkel || Alberto De Luca |
+| Alessandra Griffa || Martijn Froeling || Francesco Vergani |
+| Mareike Grotheer || Carlo Pierpaoli || Jessica Dubois |
+| Alard Roebroeck || Martin Parent || Vinod Kumar |
+| Elena Borra || Pratik Mukherjee || Stam Sotiropoulos |
+| Shawna Farquharson || Ching-Po Lin || Helen Mayberg |
+| Chiara Maffei || Diego Szczupak || Chun-Yi Zac Lo |
 | Michel Thiebault de Schotten |
 
 
