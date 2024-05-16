@@ -1,7 +1,7 @@
 - name: Maxime Descoteaux
   function: President / Founder<br>Professor, Université de Sherbrooke
   image: /uploads/photos/avatars/maxime_descoteaux.png
-  description: Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.
+  description: <details> <summary> Bio </summary> <br> Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</details>
   email: maxime.descoteaux@usherbrooke.ca
   phone:
   linkedin:
@@ -9,15 +9,15 @@
 - name: Laurent Petit
   function: Secretary / Founder<br>Director of Research, CNRS, France
   image: /uploads/photos/avatars/laurent_petit.png
-  description: Laurent Petit joined CNRS in 1998, where he currently holds the position of Research Director within the Neurofunctional Imaging Group at the Institute of Neurodegenerative Diseases (CNRS CEA University of Bordeaux, France). His research program focuses on neuroanatomy and developing innovative strategies for studying the anatomy of the human brain's white matter using diffusion imaging and tractography combined with ex vivo microscopic dissection data.
+  description: <details> <summary> Bio </summary> <br> Laurent Petit joined CNRS in 1998, where he currently holds the position of Research Director within the Neurofunctional Imaging Group at the Institute of Neurodegenerative Diseases (CNRS CEA University of Bordeaux, France). His research program focuses on neuroanatomy and developing innovative strategies for studying the anatomy of the human brain's white matter using diffusion imaging and tractography combined with ex vivo microscopic dissection data. </details>
   email: laurent.petit@u-bordeaux.fr
   phone:
   linkedin:
   website: https://orcid.org/0000-0003-2499-5367
 - name: Graham Little
-  function: Treasurer / Founder<br>Postdoctoral Fellow, Université de Sherbrooke
+  function: Treasurer / Founder<br>PDF, Université de Sherbrooke
   image: /uploads/photos/avatars/Graham_Little.JPG
-  description: Graham Little, PhD, is a NSERC postdoctoral fellow at the Sherbrooke Connectivity Imaging Lab.  Graham's research focuses on the development of novel tractography algorithms to reconstruct deep brain white matter structure.  Graham has a keen interest in the organizational aspects of the International Society for Tractography and is in charge of the society's logistical and operational aspects.
+  description: <details> <summary> Bio </summary> <br>Graham Little, PhD, is a NSERC postdoctoral fellow at the Sherbrooke Connectivity Imaging Lab.  Graham's research focuses on the development of novel tractography algorithms to reconstruct deep brain white matter structure.  Graham has a keen interest in the organizational aspects of the International Society for Tractography and is in charge of the society's logistical and operational aspects. </details>
   email: graham.little@usherbrooke.ca
   phone:
   linkedin: https://www.linkedin.com/in/grahamlittlephd/
@@ -25,15 +25,15 @@
 - name: Flavio Dell'Acqua
   function: Founding Board Member<br>Reader/Associate Professor - King's College London
   image: /uploads/photos/avatars/flavio_dell_acqua.png
-  description: Flavio Dell'Acqua is a Reader (Associate Professor) in Translational Neuroimaging at King's College London and co-founder of the NatBrainLab. His research interest focuses on the development and application of advanced diffusion imaging methods to study the organisation and integrity of human brain connections during normal development and in the presence of neurological or psychiatric disorders.
+  description: <details> <summary> Bio </summary> <br> Flavio Dell'Acqua is a Reader (Associate Professor) in Translational Neuroimaging at King's College London and co-founder of the NatBrainLab. His research interest focuses on the development and application of advanced diffusion imaging methods to study the organisation and integrity of human brain connections during normal development and in the presence of neurological or psychiatric disorders. </details>
   email: flavio.dellacqua@kcl.ac.uk
   phone:
   linkedin:
   website: http://www.natbrainlab.com
 - name: Alexander Leemans
-  function: Founding Board Member<br>Head of the PROVIDI Lab, UMC Utrecht
+  function: Founding Board Member<br>Head of the PROVIDI Lab <br> UMC Utrecht
   image: /uploads/photos/avatars/Alex_Leemans.jpeg
-  description: Alexander Leemans holds a tenured faculty position as Associate Professor at the Image Sciences Institute (ISI), University Medical Center Utrecht, the Netherlands. His current research interests include modeling, processing, visualizing and analyzing diffusion MRI data for investigating microstructural and architectural tissue organization. He currently heads the PROVIDI Lab and is the developer of ExploreDTI, a graphical toolbox for investigating diffusion MRI data.
+  description: <details> <summary> Bio </summary> <br> Alexander Leemans holds a tenured faculty position as Associate Professor at the Image Sciences Institute (ISI), University Medical Center Utrecht, the Netherlands. His current research interests include modeling, processing, visualizing and analyzing diffusion MRI data for investigating microstructural and architectural tissue organization. He currently heads the PROVIDI Lab and is the developer of ExploreDTI, a graphical toolbox for investigating diffusion MRI data. </details>
   email: A.Leemans@umcutrecht.nl
   phone:
   linkedin:
@@ -41,7 +41,7 @@
 - name: Catherine Lebel
   function: Founding Board Member<br>Professor, Radiology, University of Calgary
   image: /uploads/photos/avatars/catherine_lebel.png
-  description: Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Imaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities.
+  description: <details> <summary> Bio </summary> <br> Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Imaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities. </details>
   email: clebel@ucalgary.ca
   phone:
   linkedin:
