@@ -7,12 +7,13 @@ header:
 ```
 
 {{< brick_wide >}}
-## TractAnat Retreat Cargèse France 2024
+<center>
+<h2> TractAnat Retreat Cargèse France 2024 </h2>
 
 ![](/uploads/photos/group_picture_tractanat.jpg)
 
+<h3> Attendees </h3>
 
-### Attendees
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 |------|-----|---------|
 | Derek Jones | Kathleen Rockland | Maxime Descoteaux |
@@ -32,10 +33,14 @@ header:
 | Chiara Maffei | Michel Thiebault de Schotten | Chun-Yi Zac Lo |
 | Diego Szczupak |
 
-### Thank You to Our Sponsors!
+
+
+<h3>  Thank You to Our Sponsors! </h3>
+
 |<a href="https://imeka.ca/" rel="IMEKA imaging what matters" target="_blank"><img src="/uploads/photos/imeka-black.png" alt="Imeka"  height="auto" width=200 ></a> |&emsp;&emsp;&emsp;| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program" target="_blank"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="auto" width=400></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging" target="_blank"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  width=200 height="auto" width="auto"></a>|
 |:--------:|:------:|:-----:|:------:|:-----:|
-<br>
+</center>
+
 ---
 
 From March 10<sup>th</sup> - 16<sup>th</sup> 2024, 47 world leading experts spanning the areas of neuroanatomy, tractography methods and clinical/research applications gathered at the Institut d’Etudes Scientifiques of Cargèse (IESC), Cargèse, France for the first meeting for the International Society for Tractography.  Given the limited space, the select group of individuals were decided based on ample debate focused on diversifying the expertise of those attending as well as ensuring a truly global representation of attendees. The aim of this retreat was to gain a clear understanding of the areas in which tractography needs to improve and can have the most impact.  In addition, the discussions from the retreat helped outline the next steps required for the International Society for Tractography and future meetings.
