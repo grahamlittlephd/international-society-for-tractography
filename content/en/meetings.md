@@ -14,14 +14,14 @@ header:
 
 <h3> Attendees </h3>
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| | | |
 |------|-----|---------|
 | Derek Jones | Kathleen Rockland | Maxime Descoteaux |
 | Flavio Dell’Acqua | Alexander Leemans | Lauren O'Donnell |
 | Laurent Petit | Graham Little | Dogu Baran Aydogan |
 | Joël Lefebvre | Joseph Yang | Fan Zhang |
 | Kurt Schilling | Tim Dyrby | Silvio Sarrubo |
-| Alessandro Daducci | Maxime Chamberland | Jennifer McNab |
+| Alessandro Daducci | Maxime Chamberland &emsp;| Jennifer McNab |
 | Pamela Guevara | Christian Beaulieu | Francois Rheault |
 | Ariel Rokem | Simona Schiavi | Donald Tournier |
 | Suzanne Haber | Stephanie Forkel | Alberto De Luca |
@@ -30,8 +30,8 @@ header:
 | Alard Roebroeck | Martin Parent | Vinod Kumar |
 | Elena Borra | Pratik Mukherjee | Stam Sotiropoulos |
 | Shawna Farquharson | Ching-Po Lin | Helen Mayberg |
-| Chiara Maffei | Michel Thiebault de Schotten | Chun-Yi Zac Lo |
-| Diego Szczupak |
+| Chiara Maffei | Diego Szczupak | Chun-Yi Zac Lo |
+| Michel Thiebault de Schotten |
 
 
 
