@@ -3,14 +3,12 @@ dark_footer: false
 menuitems:
   - title: About
     link:  /about/
-  - title: History
-    link: /history/
   - title: People
-    link: /board/
+    link: /scientific_committee/
   - title: Meetings
     link: /meetings/
-  - title: Objectives
-    link: /objectives/
+  - title: Become a Member
+    link: /become_a_member/
 socials:
   - title: Twitter
     link: https://twitter.com/societytracto

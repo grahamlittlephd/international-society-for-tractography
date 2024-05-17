@@ -23,11 +23,6 @@ menuitems:
     items:
       - title:
         link:
-  - title: Objectives
-    link: /objectives/
-    items:
-      - title:
-        link:
   - title: Become a Member
     link: /become_a_member/
     items:
