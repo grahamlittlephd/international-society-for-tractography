@@ -89,7 +89,8 @@ section.stickstofooter + footer {margin-top: 0; border-top: 0;}
 /* box
 /*------------------------*/
 
-div.box {position: relative;}
+div.box {padding: 3.5rem clamp(2rem, 5vw, 5rem); border-radius: 1rem; position: relative;}
+div.box:not(:last-child) {margin-bottom: 1.7em;}
 div.box p img {border-radius: 0;}
 
 /*------------------------*/
@@ -247,7 +248,9 @@ ul.grid li {list-style: none; position: relative;}
 /*------------------------*/
 
 ul.people li {text-align: center;}
+ul.people li .box {height: 100%; padding: 2.25rem clamp(2rem, 4vw, 3.5rem);}
 ul.people li .avatar {height: 8rem; width: 8rem; margin: 0.5rem auto 0.15rem;}
+ul.people li .function {color: var(--textDark); margin: -0.25rem 0 1.5rem;}
 ul.people ul.buttons {justify-content: center;}
 
 /*------------------------*/
