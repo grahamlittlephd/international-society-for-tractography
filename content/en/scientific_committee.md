@@ -20,7 +20,7 @@ The International Society for Tractography aims to bring together world leading 
 |<b> Education </b>|
 |Unit Lead: Alexander Leemans|
 |Head of the PROVIDI Lab, UMC Utrecht|
-|<details> <summary> Responsibilities </summary> <div>>The Education Unit develops and hosts a variety of training initiatives to deliver state-of-the-art tractography education in the form of workshops, hackathons and online webinars. These events help to increase the standard of interdisciplinary tractography knowledge and training world wide.</div></details>|
+|<details> <summary> Responsibilities </summary> <div>The Education Unit develops and hosts a variety of training initiatives to deliver state-of-the-art tractography education in the form of workshops, hackathons and online webinars. These events help to increase the standard of interdisciplinary tractography knowledge and training world wide.</div></details>|
 
 </center>
 </div>
@@ -51,7 +51,7 @@ The International Society for Tractography aims to bring together world leading 
 |Unit Lead: Graham Little|
 |Postdoc, Université de Sherbrooke|
 |<details> <summary> Responsibilities </summary> <div>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.</div></details>|
-|<details> <summary> People </summary> <div></div></details>|
+|<details> <summary> People </summary> <div><a href="https://linum.info.uqam.ca" target="_blank">Joël Lefebvre - UQAM</a><a href="https://chamberm.github.io/" target="_blank">Fan Zhang - UEST</a><a href="https://chamberm.github.io/" target="_blank">Maxime Chamberland - TU/e</a><a href="https://www.kyb.tuebingen.mpg.de/person/58996" target="_blank">Vinod Kumar - Max Planck Institute</a></div></details>|
 
 </center>
 </div>
