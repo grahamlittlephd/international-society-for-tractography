@@ -66,7 +66,7 @@ The International Society for Tractography aims to bring together world leading 
 |<b> Application & Translation </b>|
 |Unit Lead: Catherine Lebel|
 |Professor, Radiology, University of Calgary|
-|<details> <summary> Responsibilities </summary> <div>Tractography has shown promise for improving clinical outcomes but few centers use tractography in their daily oporations.  A large part of this problem relates to the lack knowledge translation between expert tractographers and application/clinical scientists.  The CATT Unit aims to break down these barriers while also bring industry partners into the fold to accelerate the translation of cutting edge tractography techniques to end user impact.</div></details>|
+|<details> <summary> Responsibilities </summary> <div>Tractography has shown promise for improving clinical outcomes but few centers use tractography in their daily oporations.  A large part of this problem relates to the lack knowledge translation between expert tractographers and application/clinical scientists.  This unit aims to break down these barriers while also bring industry partners into the fold to accelerate the translation of cutting edge tractography techniques to end user impact.</div></details>|
 
 </center>
 </div>
