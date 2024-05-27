@@ -30,4 +30,11 @@ The International Society for Tractography is a non-profit legal entity in Canad
 |<a href="https://imeka.ca/" rel="IMEKA imaging what matters" target="_blank"><img src="/uploads/photos/imeka-black.png" alt="Imeka"  height="auto" width=400 ></a> |&emsp;&emsp;&emsp;| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program" target="_blank"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="auto" width=800></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging" target="_blank"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  width=400 height="auto" width="auto"></a>|
 |:--------:|:------:|:-----:|:------:|:-----:|
 <br>
+<br>
+<br>
+
+# Code of Conduct and By-laws
+
+The International Society for tractography is committed to transparency and inclusiveness in how the society is organized and operates. The <a href="/uploads/pdfs/Code_of_conduct_IST.pdf" target="_blank">code of conduct</a> and <a href="/uploads/pdfs/Final-bylaws.pdf" target="_blank">by-laws</a> for the society are made freely available as part of this goal.
+
 {{< /brick_wide >}}

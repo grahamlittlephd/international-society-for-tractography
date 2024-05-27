@@ -11,6 +11,8 @@ menuitems:
         link: /about#history-of-the-society/
       - title: Sponsors
         link: /about#sponsors/
+      - title: Code of Conduct and Bylaws
+        link: /about#code-of-conduct-and-bylaws/
   - title: People
     link:
     items:
@@ -18,13 +20,18 @@ menuitems:
         link: /board/
       - title: Scientific Committee
         link: /scientific_committee/
-  - title: Meetings
-    link: /meetings/
+  - title: Events
+    link:
     items:
-      - title:
-        link:
+      - title: TractAnat Club
+        link: /meetings/
+      - title: TractAnat Retreat
+        link: /meetings/
   - title: Become a Member
     link: /become_a_member/
     items:
       - title:
         link:
+  - title: Contact
+    link: /contact/
+    items:
