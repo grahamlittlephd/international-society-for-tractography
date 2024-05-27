@@ -13,7 +13,10 @@ socials:
   - title: Twitter
     link: https://twitter.com/societytracto
     logo_image: /img/twitter.svg
+  - title: LinkedIn
+    link: https://www.linkedin.com/company/international-society-for-tractography/
+    logo_image: /img/linkedin.svg
   - title: Email
-    link: mailto:societyfortractography@gmail.com
+    link: mailto:info@tractography.io
     logo_image: /img/email.svg
 footer_text:
