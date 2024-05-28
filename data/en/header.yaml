@@ -24,9 +24,9 @@ menuitems:
     link:
     items:
       - title: TractAnat Club
-        link: /meetings/
+        link: /tractanat_club/
       - title: TractAnat Retreat
-        link: /meetings/
+        link: /tractanat_retreat/
   - title: Become a Member
     link: /become_a_member/
     items:
