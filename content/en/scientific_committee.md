@@ -111,7 +111,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Funding & Collaborations  </b>|
 |Unit Leads: Maxime Descoteaux &|
 |Flavio Dell'Acqua|
-|<details> <summary> Responsibilities </summary> <div> The Finance and Grant Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects.  </div></details>|
+|<details> <summary> Responsibilities </summary> <div> The Funding and Collaborations Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects.  </div></details>|
 
 </center>
 </div>
@@ -124,7 +124,8 @@ The society has adopted an organizational structure for the scientific committee
 |<center><img src="/uploads/branding/logo_tractoball_transparent_with_tractogram.png" alt="Tractoball"  height="auto" width=150 ></center>|
 |:----:|
 |<b> Advisors  </b>|
-|<details> <summary> Responsibilities </summary> <div> TO DO! </div></details>|
+|<details> <summary> Responsibilities </summary> <div> The society is fortunate to have world leading experts spanning vastly different disciplines. To leverage this expertise, advisory roles have been established to help guide the leadership team in framing the society’s structure and objectives. </div></details>|
+|<details> <summary> People </summary> <div><a href="https://profiles.cardiff.ac.uk/staff/jonesd27" target="_blank">Derek Jones - Cardiff University </a><a href="https://www.bumc.bu.edu/anatneuro/kathy-rockland/" target="_blank"> Kathy Rockland - Boston Univerisity </a><a href="https://anif.org.au/" target="_blank">Shawna Farquharson - ANIF </a><a href="https://profiles.ucsf.edu/pratik.mukherjee" target="_blank"> Pratik Mukherjee - UCSF </a></div></details>|
 
 </center>
 </div>
