@@ -81,7 +81,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Interdisciplinary Definitions </b>|
 |Unit Lead: Lauren O'Donnell|
 |Associate Professor, Harvard Medical School, BWH, Radiology Dept.|
-|<details> <summary> Responsibilities </summary> <div> TO DO! </div></details>|
+|<details> <summary> Responsibilities </summary> <div> The general meanings and knowledge of terminology differ greatly between disciplines. This is extremely problematic for tractography, for instance a bundle can mean completely different things to a computer scientist or neuroanatomist.  To enable more seamless communication across fields, the Interdisciplinary Definitions unit brings together experts from disparate disciplines to standardize terminology that will help guide the fields of anatomy and tractography going forward. </div></details>|
 
 </center>
 </div>
