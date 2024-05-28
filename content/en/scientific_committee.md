@@ -6,7 +6,7 @@ title: Scientific Committee
 <center>
 <h2>Scientific Committee</h2>
 
-The International Society for Tractography aims to bring together world leading experts spanning a wide range of scientific disciplines while training the next generation of interdisciplinary informed researchers. The goal is to accelerate advancements in the field of tractography that would otherwise not happen at the individual/local level.  To do this the society has adopted an organizational structure for the scientific committee to "get things done" where individual units are ultimately responsible for fundamental aspects of the society's larger scientific goals. The structure and people in charge can be found below.
+The society has adopted an organizational structure for the scientific committee to “get things done” and achieve our larger scientific goals, where individual units are ultimately responsible for its own specific objectives. The structure and people in charge can be found below.
 
 ![](/uploads/photos/org_chart.png)
 
@@ -108,7 +108,7 @@ The International Society for Tractography aims to bring together world leading 
 
 |<center><table><tr><td><img src="/uploads/photos/avatars/Max_tractoball_finance.png" alt="Maxime Descoteaux"  height="auto" width=200 ></td><td><img src="/uploads/photos/avatars/Flavio_tractoball_finance.png" alt="Laurent Petit"  height="auto" width=200 ></td><tr></table></center>|
 |:----:|
-|<b> Finance, Grants & Collaboration  </b>|
+|<b> Funding & Collaborations  </b>|
 |Unit Leads: Maxime Descoteaux &|
 |Flavio Dell'Acqua|
 |<details> <summary> Responsibilities </summary> <div> The Finance and Grant Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects.  </div></details>|
