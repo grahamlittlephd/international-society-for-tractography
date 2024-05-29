@@ -96,7 +96,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Standardization </b>|
 |Unit Lead: Ariel Rokem|
 |Research Associate Professor, University of Washington|
-|<details> <summary> Responsibilities </summary> <div> TO DO! </div></details>|
+|<details> <summary> Responsibilities </summary> <div> In order to foster interdisciplinary and cross-border collaborations significant advancements in methods standardization need to occur. This includes new standards for data storage, consensus on tractography methods, standardizing image acquisition and evaluating state-of-the-art validation hardware. The standardization unit aims to advance all of these technological aspects to enable more accurate, repeatable and reliable tractography techniques. </div></details>|
 
 </center>
 </div>
@@ -135,3 +135,36 @@ The society has adopted an organizational structure for the scientific committee
 </ul>
 </div>
 </section>
+
+{{<brick_wide>}}
+
+<center>
+
+## Leadership Transition Process
+<br>
+</center>
+
+Our leadership transition process is designed to ensure continuity and mentorship within the International Society for Tractography (IST). Here’s how it works:
+
+### Unit Transition Structure
+
+<b>Start-Up Period</b>: To maintain stability in the early years of the society all unit leads for the scientific committee will serve an initial start-up period of 2 years.
+
+<b>Rolling In & Rolling Out</b>: After this period, a structured rolling in and rolling out process is implemented:
+- Past Member: Outgoing unit leads remain on the scientific committee for 1 year as a “Past Unit Lead.”
+- Apprentice Lead: Incoming leads (see below) serve as apprentices for 1 year.
+- Unit Lead: After the apprenticeship, the unit lead will serve for an additional 2 years.
+
+Each unit lead therefore commits to a minimum of 4 years of service.
+
+### Leadership Transition Steps
+
+<b>President Transition</b>: The President becomes the Past President for 1 year. The Vice-President (VP) is promoted to President.
+
+<b>Vice-President Selection</b>: The Nomination Committee, created by the Board of Directors, shortlists candidates from the current unit leads for the VP position. IST members will then vote to elect the new Vice-President.
+
+<b>Unit Lead Elections</b>: Each unit is responsible for electing its new lead. A current lead can serve a maximum of two terms (4 years).
+
+This process ensures a smooth and effective transition of leadership within the IST, fostering growth and stability in our scientific endeavors.
+
+{{</brick_wide>}}
