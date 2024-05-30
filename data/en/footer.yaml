@@ -19,4 +19,7 @@ socials:
   - title: Email
     link: mailto:info@tractography.io
     logo_image: /img/email.svg
+  - title: YouTube
+    link: https://www.youtube.com/@SocietyTractography
+    logo_image: /img/youtube_button.svg
 footer_text:
