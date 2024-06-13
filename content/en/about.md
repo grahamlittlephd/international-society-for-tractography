@@ -37,7 +37,7 @@ The International Society for Tractography is a non-profit legal entity in Canad
 
 ## Code of Conduct and By-laws
 
-The International Society for tractography is committed to transparency and inclusiveness in how the society is organized and operates. The <a href="/uploads/pdfs/Code_of_conduct_IST.pdf" target="_blank">code of conduct</a> and <a href="/uploads/pdfs/Final-bylaws.pdf" target="_blank">by-laws</a> for the society are made freely available as part of this goal.
+The International Society for tractography is committed to transparency and inclusiveness in how the society is organized and operates. The <a href="/uploads/pdfs/Code_of_conduct_IST2024.pdf" target="_blank">code of conduct</a> and <a href="/uploads/pdfs/bylaws_IST2024.pdf" target="_blank">by-laws</a> for the society are made freely available as part of this goal.
 
 </center>
 {{< /brick_wide >}}
