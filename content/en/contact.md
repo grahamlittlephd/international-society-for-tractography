@@ -1,5 +1,5 @@
 ---
-title: Become a Member
+title: Contact
 ---
  {{<brick_wide>}}
 
