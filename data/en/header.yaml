@@ -6,13 +6,13 @@ menuitems:
     link: /about/
     items:
       - title: What is Tractography?
-        link: /about#what-is-tractography/
+        link: /about
       - title: History of the Society
-        link: /about#history-of-the-society/
+        link: /about#anchor1
       - title: Sponsors
-        link: /about#sponsors/
+        link: /about#anchor2
       - title: Code of Conduct and Bylaws
-        link: /about#code-of-conduct-and-bylaws/
+        link: /about#anchor3
   - title: People
     link:
     items:
