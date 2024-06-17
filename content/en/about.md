@@ -3,7 +3,7 @@ title: About
 ---
 {{< brick_image >}}
 
-![](/uploads/tractograms/coronal_CST.png)
+![](/uploads/tractograms/CST_3D_overlay.png)
 
 
 
@@ -19,7 +19,7 @@ Since the mid-90's, tractography has had a rapid methodological and technologica
 <h3 id="anchor1"></h3>
 {{< brick_image2 >}}
 
-![](/uploads/tractograms/panya_schilling_fig.png)
+![](/uploads/tractograms/PLI_HIST.png)
 
 
 
