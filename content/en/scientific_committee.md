@@ -21,6 +21,7 @@ The society has adopted an organizational structure for the scientific committee
 |Unit Lead: Alexander Leemans|
 |Head of the PROVIDI Lab, UMC Utrecht|
 |<details> <summary> Description </summary> <div>The Education Unit develops and hosts a variety of training initiatives to deliver state-of-the-art tractography education in the form of workshops, hackathons and online webinars, amongst others. These events help to increase the standard of interdisciplinary tractography knowledge and training world wide.</div></details>|
+|<details> <summary> People </summary> <div><a href="https://linum.info.uqam.ca" target="_blank">Alessandro Daducci - UQAM</a><a href="https://chamberm.github.io/" target="_blank">Pamela Guevara - UEST</a><a href="https://chamberm.github.io/" target="_blank">Suzanne Haber - TU/e</a><a href="https://www.kyb.tuebingen.mpg.de/person/58996" target="_blank">Silvio Sarubbo - Max Planck Institute</a><a href="https://www.kyb.tuebingen.mpg" target="_blank">Elena Borra - Max Planck Institute</a><a href="https://www.kyb.tuebingen.mpg" target="_blank">Vinod Kumar- Max Planck Institute</a><a href="https://www.kyb.tuebingen.mpg" target="_blank">Francois Rheault - Max Planck Institute</a><a href="https://www.kyb.tuebingen.mpg" target="_blank">Chiara Maffei - Max Planck Institute</a></div></details>|
 
 </center>
 </div>
