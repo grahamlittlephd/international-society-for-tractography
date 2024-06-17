@@ -20,7 +20,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Education </b>|
 |Unit Lead: Alexander Leemans|
 |Head of the PROVIDI Lab, UMC Utrecht|
-|<details> <summary> Responsibilities </summary> <div>The Education Unit develops and hosts a variety of training initiatives to deliver state-of-the-art tractography education in the form of workshops, hackathons and online webinars. These events help to increase the standard of interdisciplinary tractography knowledge and training world wide.</div></details>|
+|<details> <summary> Description </summary> <div>The Education Unit develops and hosts a variety of training initiatives to deliver state-of-the-art tractography education in the form of workshops, hackathons and online webinars, amongst others. These events help to increase the standard of interdisciplinary tractography knowledge and training world wide.</div></details>|
 
 </center>
 </div>
@@ -35,7 +35,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Events & Publications </b>|
 |Unit Lead: Laurent Petit|
 |Director of Research, CNRS, France|
-|<details> <summary> Responsibilities </summary> <div>Responsible for organizing the Society's international conference and tractography specific scientific communications, the Events & Communications Unit is already at work planning the first meeting of the IST and a one of a kind tractography specific journal release.</div></details>|
+|<details> <summary> Description </summary> <div>Responsible for organizing the IST international conference and tractography specific scientific communications, the Events & Communications Unit is already at work planning the inaugural IST meeting in Bordeaux in 2025, along with the launch of a Neuroanatomy and Tractography collection of articles in the journal Brain Structure and Function.</div></details>|
 
 </center>
 </div>
@@ -50,7 +50,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Technology </b>|
 |Unit Lead: Graham Little|
 |Postdoc, Université de Sherbrooke|
-|<details> <summary> Responsibilities </summary> <div>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive ammounts of imaging/anatomical data.</div></details>|
+|<details> <summary> Description </summary> <div>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive amounts of imaging/anatomical data.</div></details>|
 |<details> <summary> People </summary> <div><a href="https://linum.info.uqam.ca" target="_blank">Joël Lefebvre - UQAM</a><a href="https://chamberm.github.io/" target="_blank">Fan Zhang - UEST</a><a href="https://chamberm.github.io/" target="_blank">Maxime Chamberland - TU/e</a><a href="https://www.kyb.tuebingen.mpg.de/person/58996" target="_blank">Vinod Kumar - Max Planck Institute</a></div></details>|
 
 </center>
@@ -66,7 +66,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Application & Translation </b>|
 |Unit Lead: Catherine Lebel|
 |Professor, Radiology, University of Calgary|
-|<details> <summary> Responsibilities </summary> <div>Tractography has shown promise for improving clinical outcomes but few centers use tractography in their daily oporations.  A large part of this problem relates to the lack knowledge translation between expert tractographers and application/clinical scientists.  This unit aims to break down these barriers while also bring industry partners into the fold to accelerate the translation of cutting edge tractography techniques to end user impact.</div></details>|
+|<details> <summary> Description </summary> <div>Tractography has shown promise for improving health and wellbeing, but translation of research to practice is not always straightforward or quick. Part of this problem relates to a gap between research and practice, which this unit aims to help bridge. We aim to support numerous applications of tractography, and help accelerate translation of research into impact.</div></details>|
 
 </center>
 </div>
@@ -80,8 +80,8 @@ The society has adopted an organizational structure for the scientific committee
 |:----:|
 |<b> Interdisciplinary Definitions </b>|
 |Unit Lead: Lauren O'Donnell|
-|Associate Professor, Harvard Medical School, BWH, Radiology Dept.|
-|<details> <summary> Responsibilities </summary> <div> The general meanings and knowledge of terminology differ greatly between disciplines. This is extremely problematic for tractography, for instance a bundle can mean completely different things to a computer scientist or neuroanatomist.  To enable more seamless communication across fields, the Interdisciplinary Definitions unit brings together experts from disparate disciplines to standardize terminology that will help guide the fields of anatomy and tractography going forward. </div></details>|
+|Associate Professor, Radiology, Harvard Medical School, BWH|
+|<details> <summary> Description </summary> <div> The general meanings and knowledge of terminology differ greatly between disciplines. This is extremely problematic for tractography; for instance, a bundle can mean completely different things to a computer scientist or neuroanatomist. To enable more seamless communication, the Interdisciplinary Definitions unit brings together experts from disparate disciplines to define terminology that will help guide research across scales, modalities, species, and scientific domains. </div></details>|
 
 </center>
 </div>
@@ -96,7 +96,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Standardization </b>|
 |Unit Lead: Ariel Rokem|
 |Research Associate Professor, University of Washington|
-|<details> <summary> Responsibilities </summary> <div> In order to foster interdisciplinary and cross-border collaborations significant advancements in methods standardization need to occur. This includes new standards for data storage, consensus on tractography methods, standardizing image acquisition and evaluating state-of-the-art validation hardware. The standardization unit aims to advance all of these technological aspects to enable more accurate, repeatable and reliable tractography techniques. </div></details>|
+|<details> <summary> Description </summary> <div> In order to foster interdisciplinary and international collaborations significant advancements in methods standardization need to occur. This includes new standards for data storage and meta-data, consensus on tractography methods, standardizing image acquisition and evaluating state-of-the-art validation hardware. The standardization unit aims to advance all of these technological aspects to enable more accurate, repeatable and reliable tractography techniques. </div></details>|
 
 </center>
 </div>
@@ -111,7 +111,7 @@ The society has adopted an organizational structure for the scientific committee
 |<b> Funding & Collaborations  </b>|
 |Unit Leads: Maxime Descoteaux &|
 |Flavio Dell'Acqua|
-|<details> <summary> Responsibilities </summary> <div> The Funding and Collaborations Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects.  </div></details>|
+|<details> <summary> Description </summary> <div> The Funding and Collaborations Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects. </div></details>|
 
 </center>
 </div>
@@ -124,7 +124,7 @@ The society has adopted an organizational structure for the scientific committee
 |<center><img src="/uploads/branding/logo_tractoball_transparent_with_tractogram.png" alt="Tractoball"  height="auto" width=150 ></center>|
 |:----:|
 |<b> Advisors  </b>|
-|<details> <summary> Responsibilities </summary> <div> The society is fortunate to have world leading experts spanning vastly different disciplines. To leverage this expertise, advisory roles have been established to help guide the leadership team in framing the society’s structure and objectives. </div></details>|
+|<details> <summary> Description </summary> <div> The society is fortunate to have world leading experts spanning vastly different disciplines. To leverage this expertise, advisory roles have been established to help guide the leadership team in framing the society’s structure and objectives. </div></details>|
 |<details> <summary> People </summary> <div><a href="https://profiles.cardiff.ac.uk/staff/jonesd27" target="_blank">Derek Jones - Cardiff University </a><a href="https://www.bumc.bu.edu/anatneuro/kathy-rockland/" target="_blank"> Kathy Rockland - Boston Univerisity </a><a href="https://anif.org.au/" target="_blank">Shawna Farquharson - ANIF </a><a href="https://profiles.ucsf.edu/pratik.mukherjee" target="_blank"> Pratik Mukherjee - UCSF </a></div></details>|
 
 </center>
