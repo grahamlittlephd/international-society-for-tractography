@@ -14,14 +14,14 @@ menuitems:
       - title: Code of Conduct and Bylaws
         link: /about#anchor3
   - title: People
-    link:
+    link: /scientific_committee/
     items:
       - title: Board
         link: /board/
       - title: Scientific Committee
         link: /scientific_committee/
   - title: Events
-    link:
+    link: 
     items:
       - title: TractAnat Club
         link: /tractanat_club/
