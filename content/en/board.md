@@ -17,7 +17,7 @@ title: Board of Directors
 |<b>Maxime Descoteaux</b>|
 |President / Founder|
 |Professor, Université de Sherbrooke|
-|<details> <summary> Bio </summary><div>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</div></details>|
+|<details> <summary> Bio </summary><div>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the <a href="https://scil.usherbrooke.ca/">Sherbrooke Connectivity Imaging Laboratory</a> and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</div></details>|
 
 </center>
 </div>
@@ -87,7 +87,8 @@ title: Board of Directors
 |<b>Catherine Lebel</b>|
 |Founding Board Member|
 |Professor, Radiology, University of Calgary|
-|<details> <summary> Bio </summary> <div> Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Imaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities. </div></details>|
+|<details> <summary> Bio </summary> <div> Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Neuroimaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities.
+ </div></details>|
 
 </center>
 </div>
