@@ -17,7 +17,7 @@ title: Board of Directors
 |<b>Maxime Descoteaux</b>|
 |President / Founder|
 |Professor, Université de Sherbrooke|
-|<details> <summary> Bio </summary><div>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the <a href="https://scil.usherbrooke.ca/" target="_blank">Sherbrooke Connectivity Imaging Laboratory</a> and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</div></details>|
+|<details> <summary> Bio </summary><div>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</div></details>|
 
 </center>
 </div>
@@ -45,7 +45,7 @@ title: Board of Directors
 |<b>Graham Little</b>|
 |Treasurer / Founder|
 |CEO, Jump Ship Labs|
-|<details> <summary> Bio </summary> <div>Graham Little, PhD, is CEO at <a href="https://www.jumpshiplabs.com/" target="_blank">Jump Ship Labs</a>, a co-founder of the International Society for Tractography (IST) and a NSERC postdoctoral fellow at the Université de Sherbrooke, Canada. Graham is interested in non-traditional methods for accelerating research. With the IST, Graham is framing the operational and organizational aspects of the society, to help it grow into a society that “gets things done” and truly facilitates international collaboration.  </div></details>|
+|<details> <summary> Bio </summary> <div>Graham Little, PhD, is CEO at Jump Ship Labs a co-founder of the International Society for Tractography (IST) and a NSERC postdoctoral fellow at the Université de Sherbrooke, Canada. Graham is interested in non-traditional methods for accelerating research. With the IST, Graham is framing the operational and organizational aspects of the society, to help it grow into a society that “gets things done” and truly facilitates international collaboration.  </div></details>|
 
 </center>
 </div>
