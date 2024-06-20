@@ -44,8 +44,8 @@ title: Board of Directors
 |:----:|
 |<b>Graham Little</b>|
 |Treasurer / Founder|
-|Postdoc, Université de Sherbrooke|
-|<details> <summary> Bio </summary> <div>Graham Little, PhD, is a NSERC postdoctoral fellow at the Sherbrooke Connectivity Imaging Lab.    Graham's research focuses on the development of novel tractography algorithms to reconstruct deep brain white matter structure.  Graham is deeply involved in organizing the initial structure of the International Society for Tractography and is in charge of the society's logistical and operational aspects. </div></details>|
+|CEO, Jump Ship Labs|
+|<details> <summary> Bio </summary> <div>Graham Little, PhD, is CEO at <a href="https://scil.usherbrooke.ca/">Jump Ship Labs</a>, a co-founder of the International Society for Tractography (IST) and a NSERC postdoctoral fellow at the Université de Sherbrooke, Canada. Graham is interested in non-traditional methods for accelerating research. With the IST, Graham is framing the operational and organizational aspects of the society, to help it grow into a society that “gets things done” and truly facilitates international collaboration.  </div></details>|
 
 </center>
 </div>
