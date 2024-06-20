@@ -115,7 +115,7 @@ The society has adopted an organizational structure for the scientific committee
 |:----:|
 |<b> Funding & Collaborations  </b>|
 |Unit Leads: <a href="https://scil.usherbrooke.ca" target="_blank">Maxime Descoteaux</a> &|
-|<a href="https://www.natbrainlab.com" target="_blank">Flavio Dell'Acqua</a>|
+|<a href="https://www.natbrainlab.co.uk" target="_blank">Flavio Dell'Acqua</a>|
 |<details> <summary> Description </summary> <div> The Funding and Collaborations Unit is focused on garnering support for the society through sponsorship and cross-discipline / cross-border funding opportunities. These objectives include grants related to network building, interdisciplinary training and large scale scientific projects. </div></details>|
 
 </center>

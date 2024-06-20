@@ -56,7 +56,7 @@ title: Board of Directors
 
 |<center><img src="/uploads/photos/avatars/Flavio_tractoball.png" alt="Flavio Dell'Acqua"  height="auto" width=200 ></center>|
 |:----:|
-|<a href="https://www.natbrainlab.com" target="_blank"><b>Flavio Dell'Acqua</b></a>|
+|<a href="https://www.natbrainlab.co.uk" target="_blank"><b>Flavio Dell'Acqua</b></a>|
 |Founding Board Member|
 |Reader/Associate Professor - King's College London|
 |<details> <summary> Bio </summary> <div> Flavio Dell'Acqua is a Reader (Associate Professor) in Translational Neuroimaging at King's College London and co-founder of the NatBrainLab. His research interest focuses on the development and application of advanced diffusion imaging methods to study the organisation and integrity of human brain connections during normal development and in the presence of neurological or psychiatric disorders. </div> </details>|
