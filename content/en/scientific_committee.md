@@ -50,7 +50,7 @@ The society has adopted an organizational structure for the scientific committee
 |<center><img src="/uploads/photos/avatars/Graham_tractoball_tech.png" alt="Graham Little"  height="auto" width=200 ></center>|
 |:----:|
 |<b> Technology </b>|
-|Unit Lead: <a href="https://www.jumpshiplabs.com/">Graham Little</a>|
+|Unit Lead: <a href="https://www.jumpshiplabs.com/" target="_blank">Graham Little</a>|
 |CEO, Jump Ship Labs|
 |<details> <summary> Description </summary> <div>The technology unit is responsible for all aspects of tech development and support for the society. This includes web development, database management as well as developing new tools to allow members to share and collaborate with massive amounts of imaging/anatomical data.</div></details>|
 |<details> <summary> People </summary> <div><a href="https://linum-lab.ca" target="_blank">Joël Lefebvre - UQAM (CAN)</a><a href="https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en" target="_blank">Fan Zhang - UEST (CN)</a><a href="https://chamberm.github.io/" target="_blank">Maxime Chamberland - TU/e (NL)</a><a href="https://www.kyb.tuebingen.mpg.de/person/58996" target="_blank">Vinod Kumar - Max Planck (GER)</a></div></details>|
