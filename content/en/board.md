@@ -14,7 +14,7 @@ title: Board of Directors
 
 |<center><img src="/uploads/photos/avatars/Max_tractoball.png" alt="Maxime Descoteaux"  height="auto" width=200 ></center>|
 |:----:|
-|<b>Maxime Descoteaux</b>|
+|<a href="https://scil.usherbrooke.ca" target="_blank"><b>Maxime Descoteaux</b></a>|
 |President / Founder|
 |Professor, Université de Sherbrooke|
 |<details> <summary> Bio </summary><div>Maxime Descoteaux, PhD, is a full Professor in Computer Science since 2009 at the Université de Sherbrooke, Canada.  He is the founder of the Sherbrooke Connectivity Imaging Laboratory and member of the College of the Royal Society of Canada. His research aims to develop novel tractography algorithms, validate them, and translate them to clinical applications.</div></details>|
