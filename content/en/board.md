@@ -45,7 +45,7 @@ title: Board of Directors
 |<b>Graham Little</b>|
 |Treasurer / Founder|
 |CEO, Jump Ship Labs|
-|<details> <summary> Bio </summary> <div>Graham Little, PhD, is CEO at Jump Ship Labs a co-founder of the International Society for Tractography (IST) and a NSERC postdoctoral fellow at the Université de Sherbrooke, Canada. Graham is interested in non-traditional methods for accelerating research. With the IST, Graham is framing the operational and organizational aspects of the society, to help it grow into a society that “gets things done” and truly facilitates international collaboration.  </div></details>|
+|<details> <summary> Bio </summary> <div>Graham Little, PhD, is CEO at Jump Ship Labs, a co-founder of the International Society for Tractography (IST) and a NSERC postdoctoral fellow at the Université de Sherbrooke, Canada. Graham is interested in non-traditional methods for accelerating research. With the IST, Graham is framing the operational and organizational aspects of the society, to help it grow into a society that “gets things done” and truly facilitates international collaboration.  </div></details>|
 
 </center>
 </div>
