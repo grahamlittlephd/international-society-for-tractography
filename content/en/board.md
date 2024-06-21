@@ -87,8 +87,7 @@ title: Board of Directors
 |<a href="http://www.developmentalneuroimaginglab.ca"><b>Catherine Lebel</b></a>|
 |Founding Board Member|
 |Professor, Radiology, University of Calgary|
-|<details> <summary> Bio </summary> <div> Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Neuroimaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities.
- </div></details>|
+|<details> <summary> Bio </summary> <div> Catherine Lebel is a Professor of Radiology at the University of Calgary and a Canada Research Chair in Pediatric Neuroimaging. She leads the Child Brain & Mental Health Program at the Alberta Children’s Hospital Research Institute and is a member of the Hotchkiss Brain Institute. Her research uses MRI to study how brain structure and function change with age in typical children and those with neurodevelopmental disorders, including fetal alcohol spectrum disorder and learning disabilities. </div></details>|
 
 </center>
 </div>
