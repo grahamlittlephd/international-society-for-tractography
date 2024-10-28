@@ -48,5 +48,16 @@ The International Society for Tractography is a non-profit legal entity in Canad
 
 The International Society for tractography is committed to transparency and inclusiveness in how the society is organized and operates. The <a href="/uploads/pdfs/Code_of_conduct_IST2024.pdf" target="_blank">code of conduct</a> and <a href="/uploads/pdfs/bylaws_IST2024.pdf" target="_blank">by-laws</a> for the society are made freely available as part of this goal.
 
+<h3 id="anchor4"></h3>
+
+## Disclaimer
+
+The International Society for Tractography (IST) provides information for educational
+and scientific purposes only. The content presented by the IST, including but not
+limited to research findings, methodologies, and discussions, should not be
+construed as medical advice. Always consult with qualified healthcare professionals
+for any medical concerns or decisions. <a href="/uploads/pdfs/Disclaimers_for_IST.pdf" target="_blank">(More Disclaimers Can Be Found Here)</a>
+
 </center>
+
 {{< /brick_wide >}}

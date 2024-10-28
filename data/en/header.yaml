@@ -13,6 +13,8 @@ menuitems:
         link: /about#anchor2
       - title: Code of Conduct and Bylaws
         link: /about#anchor3
+      - title: Disclaimer
+        link: /about#anchor4
   - title: People
     link: /scientific_committee/
     items:
