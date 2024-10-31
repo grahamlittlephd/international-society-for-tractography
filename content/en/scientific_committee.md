@@ -130,7 +130,7 @@ The society has adopted an organizational structure for the scientific committee
 |:----:|
 |<b> Advisors  </b>|
 |<details> <summary> Description </summary> <div> The society is fortunate to have world leading experts spanning vastly different disciplines. To leverage this expertise, advisory roles have been established to help guide the leadership team in framing the society’s structure and objectives. </div></details>|
-|<details> <summary> People </summary> <div><a href="https://profiles.cardiff.ac.uk/staff/jonesd27" target="_blank">Derek Jones - CU (UK) </a><a href="https://www.bumc.bu.edu/anatneuro/kathy-rockland/" target="_blank"> Kathy Rockland - BU (USA) </a><a href="https://anif.org.au/" target="_blank">Shawna Farquharson - ANIF (AUS) </a><a href="https://profiles.ucsf.edu/pratik.mukherjee" target="_blank"> Pratik Mukherjee - UCSF (USA)</a></div></details>|
+|<details> <summary> People </summary> <div><a href="https://profiles.cardiff.ac.uk/staff/jonesd27" target="_blank">Derek Jones - CU (UK) </a><a href="https://www.bumc.bu.edu/anatneuro/kathy-rockland/" target="_blank"> Kathy Rockland - BU (USA) </a><a href="https://anif.org.au/" target="_blank">Shawna Farquharson - ANIF (AUS) </a><a href="https://profiles.ucsf.edu/pratik.mukherjee" target="_blank"> Pratik Mukherjee - UCSF (USA)</a><a href="https://www.researchgate.net/profile/Silvio-Sarubbo" target="_blank">Silvio Sarubbo - UofT (ITLY)</a></div></details>|
 
 </center>
 </div>
