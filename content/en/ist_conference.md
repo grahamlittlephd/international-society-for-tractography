@@ -19,3 +19,5 @@ To ensure a highly interactive and engaging atmosphere, the conference will be l
 
 {{< /brick_wide >}}
 
+{{<brick_cta>}}{{</brick_cta>}}
+
