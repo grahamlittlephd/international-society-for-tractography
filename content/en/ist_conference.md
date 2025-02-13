@@ -15,7 +15,7 @@ This unique event will bring together 150 leading researchers and experts in the
 
 The mornings will feature keynote lectures, short oral presentations, and poster sessions, while the afternoons will be dedicated to interactive workshops tackling key challenges in tractography.
 
-To ensure a highly interactive and engaging atmosphere, the conference will be limited to 150 participants. Registration will be open to all members so make sure to become a member to stay up to the date for details on, registration, and abstract submission in early 2025.
+To ensure a highly interactive and engaging atmosphere, the conference will be limited to 150 participants. Registration will be open to all members so make sure to become a member below to stay up to the date for details on, registration, and abstract submission in early 2025.
 
 {{< /brick_wide >}}
 
