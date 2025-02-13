@@ -25,6 +25,8 @@ menuitems:
   - title: Events
     link: /tractanat_club/
     items:
+      - title: IST Conference
+        link: /ist_conference/
       - title: TractAnat Club
         link: /tractanat_club/
       - title: TractAnat Retreat
