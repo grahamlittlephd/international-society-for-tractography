@@ -10,8 +10,9 @@ header:
 ![](/uploads/photos/IST_Conference_2025.png)
 ---
 <center>
-Abstract submission is now open
-Submission deadline: May 15<sup>th</sup>, 2025
+<b>Abstract submission is now open</b>
+
+<b>Submission deadline: May 15<sup>th</sup>, 2025</b>
 
 {{< button2 "Submit Your Abstract Here" "https://event.fourwaves.com/istconference2025/submission" >}}
 </center>
