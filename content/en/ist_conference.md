@@ -9,6 +9,13 @@ header:
 {{< brick_wide >}}
 ![](/uploads/photos/IST_Conference_2025.png)
 ---
+<center>
+Abstract submission is now open
+Submission deadline: May 15<sup>th</sup>, 2025
+
+{{< button2 "Submit Your Abstract Here" "https://event.fourwaves.com/istconference2025/submission" >}}
+</center>
+
 We are thrilled to announce that the International Society for Tractography will organize its inaugural Conference, from October 13<sup>th</sup> to 16<sup>th</sup>, 2025, in the city of Bordeaux, France.
 
 This unique event will bring together 150 participants in the field of tractography, focusing on anatomy, methodologies, and applications in both clinical and scientific contexts. With an innovative conference format designed to foster knowledge sharing and collaboration, the conference - aligned with the International Society for Tractography’s raison d’être - aims to advance research and innovation in our common field of interest, tractography.
