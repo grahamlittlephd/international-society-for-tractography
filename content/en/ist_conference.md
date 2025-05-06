@@ -7,12 +7,12 @@ header:
 ```
 
 {{< brick_wide >}}
-![](/uploads/photos/IST_Conference_2025.png)
+![](/uploads/photos/IST_Conference_2025_update.png)
 ---
 <center>
 <b>Abstract submission is now open</b>
 
-<b>Submission deadline: May 15<sup>th</sup>, 2025</b>
+<b>Submission deadline: May 30<sup>th</sup>, 2025</b>
 
 {{< button2 "Submit Your Abstract Here" "https://event.fourwaves.com/istconference2025/submission" >}}
 </center>
