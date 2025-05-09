@@ -1,5 +1,5 @@
 ---
-title: TractAnat Retreat 2024
+title: IST Conference 2025
 ---
 ```
 header:
