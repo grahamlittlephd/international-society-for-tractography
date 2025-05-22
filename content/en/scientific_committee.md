@@ -117,7 +117,18 @@ The society has adopted an organizational structure for the scientific committee
 |Unit Lead: <a href="">Alessandro Daducci </a>|
 |Associate Professor, University of Verona|
 |<details> <summary> Description </summary> <div> Validation </div></details>|
-|<details> <summary> People </summary> <div><a href="https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/francois-rheault" target="_blank">Francois Rheault - UdeS (CAN)</a><a href="https://www.vanderbilt.edu/vise/visepeople/kurt-schilling/" target="_blank">Kurt Schilling - VU Medical Center (USA) </a><a href="https://www.researchgate.net/profile/Silvio-Sarubbo" target="_blank">Silvio Sarubbo - UofT (ITLY)</a><a href="https://sites.google.com/site/simonaschiaviweb/" target="_blank">Simona Schiavi - ASG (ITLY)</a><a href="https://www.kcl.ac.uk/people/jacques-donald-tournier" target="_blank">Donald Tournier - KCL (UK)</a><a href="https://med.nyu.edu/faculty/jelle-veraart" target="_blank">Jelle Veraart - NYU (USA)</a><a href="https://www.DRCMR.dk/map" target="_blank">Tim Dyrby - UofD (DK)</a><a href="https://www.di.univr.it/?ent=persona&id=4397" target="_blank">Alessandro Daducci - UofV (ITLY)</a><a href="https://www.bcm.edu/people-search/sarah-heilbronner-129381" target="_blank">Sarah Heilbronner - BCofM (USA)</a><a href="https://wt1.pages.iu.edu/" target="_blank">Wei Tang - IU (USA)</a><a href="https://conilab.nottingham.ac.uk" target="_blank">Stam Sotiropoulos - UofN (UK)</a><a href="https://www.umcutrecht.nl/en/research/researchers/de-luca-alberto-a" target="_blank">Alberto De Luca - UMC Utrecht (NL)</a></div></details>|
+|<details> <summary> People </summary> <div>
+<a href="https://cnir.net/" target="_blank">Baran Aydogan - University of Eastern Finland (Finland)</a>
+<a href="https://people.epfl.ch/erick.canalesrodriguez" target="_blank">Erick Canales-Rodriguez - EPFL (Switzerland)</a>
+<a href="https://emmanuel.caruyer.com/" target="_blank">Emmanuel Caruyer - CNRS & University of Rennes (France)</a>
+<a href="https://www.di.univr.it/?ent=persona&id=4397" target="_blank">Alessandro Daducci - University of Verona (Italy)</a>
+<a href="https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/gabriel-girard" target="_blank">Gabriel Girard - Université de Sherbrooke (Canada)</a>
+<a href="https://www.dkfz.de/en/mic/mitarbeiter/neher.html" target="_blank">Peter Neher - German Cancer Research Center (Germany)</a>
+<a href="https://www.chuv.ch/fr/labo-imagerie-medicale/accueil/le-laboratoire/equipe/jonathan-patino-lopez" target="_blank">Jonathan Patino-Lopez - Lausanne University Hospital (Switzerland)</a>
+<a href="https://www.cimat.mx/en/personal/alonso-ramirez-manzanares" target="_blank">Alonso Ramirez - CIMAT (Mexico)</a>
+<a href="https://www.kcl.ac.uk/people/flavio-dellacqua" target="_blank">Flavio Dell'acqua - King's College London (United Kingdom)</a>
+<a href="https://orcid.org/0000-0003-2499-5367" target="_blank">Laurent Petit - Université de Bordeaux (France)</a>
+</div></details>|
 
 </center>
 </div>
