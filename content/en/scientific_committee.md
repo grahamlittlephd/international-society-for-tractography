@@ -95,7 +95,7 @@ The society has adopted an organizational structure for the scientific committee
 <div class="box">
 <center>
 
-|<center><img src="/uploads/photos/avatars/Alessandro_tractoball_methods_validation.png" alt="Ariel Rokem"  height="auto" width=200 ></center>|
+|<center><img src="/uploads/photos/avatars/Ariel_tractoball_standard.png" alt="Ariel Rokem"  height="auto" width=200 ></center>|
 |:----:|
 |<b> Standardization </b>|
 |Unit Lead: <a href="https://neuroinformatics.uw.edu/">Ariel Rokem</a>|
@@ -111,7 +111,7 @@ The society has adopted an organizational structure for the scientific committee
 <div class="box">
 <center>
 
-|<center><img src="/uploads/photos/avatars/Ariel_tractoball_standard.png" alt="Alessandro Daducci"  height="auto" width=200 ></center>|
+|<center><img src="/uploads/photos/avatars/Alessandro_tractoball_methods_validation.png" alt="Alessandro Daducci"  height="auto" width=200 ></center>|
 |:----:|
 |<b> Methods Validation </b>|
 |Unit Lead: <a href="">Alessandro Daducci </a>|
