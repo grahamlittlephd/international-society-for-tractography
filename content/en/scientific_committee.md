@@ -8,7 +8,7 @@ title: Scientific Committee
 
 The society has adopted an organizational structure for the scientific committee to “get things done” and achieve our larger scientific goals, where individual units are ultimately responsible for its own specific objectives. The structure and people in charge can be found below.
 
-![](/uploads/photos/org_chart.png)
+![](/uploads/photos/org_chart_v2_validation.png)
 
 <ul class="grid people">
     <li>
