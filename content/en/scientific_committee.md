@@ -111,6 +111,22 @@ The society has adopted an organizational structure for the scientific committee
 <div class="box">
 <center>
 
+|<center><img src="/uploads/photos/avatars/Ariel_tractoball_standard.png" alt="Alessandro Daducci"  height="auto" width=200 ></center>|
+|:----:|
+|<b> Validation (Phantoms) </b>|
+|Unit Lead: <a href="">Alessandro Daducci </a>|
+|Associate Professor, University of Verona|
+|<details> <summary> Description </summary> <div> Validation </div></details>|
+|<details> <summary> People </summary> <div><a href="https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/francois-rheault" target="_blank">Francois Rheault - UdeS (CAN)</a><a href="https://www.vanderbilt.edu/vise/visepeople/kurt-schilling/" target="_blank">Kurt Schilling - VU Medical Center (USA) </a><a href="https://www.researchgate.net/profile/Silvio-Sarubbo" target="_blank">Silvio Sarubbo - UofT (ITLY)</a><a href="https://sites.google.com/site/simonaschiaviweb/" target="_blank">Simona Schiavi - ASG (ITLY)</a><a href="https://www.kcl.ac.uk/people/jacques-donald-tournier" target="_blank">Donald Tournier - KCL (UK)</a><a href="https://med.nyu.edu/faculty/jelle-veraart" target="_blank">Jelle Veraart - NYU (USA)</a><a href="https://www.DRCMR.dk/map" target="_blank">Tim Dyrby - UofD (DK)</a><a href="https://www.di.univr.it/?ent=persona&id=4397" target="_blank">Alessandro Daducci - UofV (ITLY)</a><a href="https://www.bcm.edu/people-search/sarah-heilbronner-129381" target="_blank">Sarah Heilbronner - BCofM (USA)</a><a href="https://wt1.pages.iu.edu/" target="_blank">Wei Tang - IU (USA)</a><a href="https://conilab.nottingham.ac.uk" target="_blank">Stam Sotiropoulos - UofN (UK)</a><a href="https://www.umcutrecht.nl/en/research/researchers/de-luca-alberto-a" target="_blank">Alberto De Luca - UMC Utrecht (NL)</a></div></details>|
+
+</center>
+</div>
+</li>
+
+<li>
+<div class="box">
+<center>
+
 |<center><table><tr><td><img src="/uploads/photos/avatars/Max_tractoball_finance.png" alt="Maxime Descoteaux"  height="auto" width=200 ></td><td><img src="/uploads/photos/avatars/Flavio_tractoball_finance.png" alt="Laurent Petit"  height="auto" width=200 ></td><tr></table></center>|
 |:----:|
 |<b> Funding & Collaborations  </b>|
