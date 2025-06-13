@@ -7,14 +7,14 @@ header:
 ```
 
 {{< brick_wide >}}
-![](/uploads/photos/IST_Conference_2025_update.png)
+![](/uploads/photos/IST_Conference_2025.png)
 ---
 <center>
-<b>Abstract submission is now open</b>
+<b>Priority Registration for abstract presenters and the organization committee is now open.  Registration for the rest of the community will open July 1st, 2025 (9:00AM Bordeaux Time Zone</b>
 
-<b>Submission deadline: May 30<sup>th</sup>, 2025</b>
-
-{{< button2 "Submit Your Abstract Here" "https://event.fourwaves.com/istconference2025/submission" >}}
+<b>Priority Registration deadline: June 30<sup>th</sup>, 2025</b> (23h59 PCT)</b>
+<b>First-Come First-Serve registration open: July 1<sup>st</sup>, 2025 (23h59 PCT)</b>
+{{< button2 "Register Here" "https://event.fourwaves.com/istconference2025/registration" >}}
 </center>
 
 We are thrilled to announce that the International Society for Tractography will organize its inaugural Conference, from October 13<sup>th</sup> to 16<sup>th</sup>, 2025, in the city of Bordeaux, France.
