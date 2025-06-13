@@ -10,10 +10,14 @@ header:
 ![](/uploads/photos/IST_Conference_2025.png)
 ---
 <center>
-<b>Priority Registration for abstract presenters and the organization committee is now open.  Registration for the rest of the community will open July 1st, 2025 (9:00AM Bordeaux Time Zone</b>
+<b>Priority Registration for abstract presenters and the organization committee is now open.</b>
 
 <b>Priority Registration deadline: June 30<sup>th</sup>, 2025</b> (23h59 PCT)</b>
+
+<b>Registration for the rest of the community will open July 1st, 2025 (9:00AM Bordeaux Time Zone</b>
+
 <b>First-Come First-Serve registration open: July 1<sup>st</sup>, 2025 (23h59 PCT)</b>
+
 {{< button2 "Register Here" "https://event.fourwaves.com/istconference2025/registration" >}}
 </center>
 
