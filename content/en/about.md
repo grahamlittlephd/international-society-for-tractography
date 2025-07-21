@@ -35,12 +35,9 @@ The International Society for Tractography is a non-profit legal entity in Canad
 {{< brick_wide >}}
 <center>
 
-## Thank You to Our Sponsors!
-| <a href="https://sts.u-bordeaux.fr/rri-impact" rel="IMaging for Precision medicine within A Collaborative Translational program" target="_blank"><img src="/uploads/photos/logo_IMPACT.png" alt="IMPACT"  height="auto" width=800></a> |&emsp;&emsp;&emsp;| <a href="https://skope.swiss/" rel="Skope: Your Partner in Scientific MR Imaging" target="_blank"><img src="/uploads/photos/Skope_PNG.png" alt="Skope"  width=400 height="auto" width="auto"></a>|
-|:-----:|:------:|:-----:|
-<br>
-<br>
-<br>
+## We Endorse Events
+
+The society is happy to endorse events that aim to advance our collective mission.  If you have an event that aligns with our goals we would love to hear from you.  This <a href="/uploads/pdfs/IST-Endorsement_Revision_Procedure-updated_21-07-2025.pdf" target="_blank">document</a> explains the steps to get started with our endorsement and what is required from our side as well. Please reach out to <a href="info@tractography.io"> info@tractography.io </a> if you have any questions.
 
 <h3 id="anchor3"></h3>
 
