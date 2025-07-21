@@ -11,7 +11,7 @@ header:
 ---
 <center>
 
-Registration is opened on a first-come first-serve basis <b>July 1<sup>st</sup>, 2025 (9:00AM Bordeaux Time Zone)</b> until the event is full
+Registration opened on a first-come first-serve basis <b>July 1<sup>st</sup>, 2025 (9:00AM Bordeaux Time Zone)</b> until the event is full
 
 {{< button2 "Register Here" "https://event.fourwaves.com/istconference2025/registration" >}}
 </center>
